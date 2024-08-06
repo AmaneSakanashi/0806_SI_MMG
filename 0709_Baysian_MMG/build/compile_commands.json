@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/black/Desktop/sakanashi/0709_Baysian_MMG/build",
+  "command": "/usr/bin/gfortran   -O3 -p -O0 -fbacktrace -g -fbounds-check -ffpe-trap=invalid,zero,overflow,underflow -Wall   -fopenmp -c /home/black/Desktop/sakanashi/0709_Baysian_MMG/cmaes.f90 -o CMakeFiles/main.out.dir/cmaes.f90.o",
+  "file": "/home/black/Desktop/sakanashi/0709_Baysian_MMG/cmaes.f90"
+},
+{
+  "directory": "/home/black/Desktop/sakanashi/0709_Baysian_MMG/build",
+  "command": "/usr/bin/gfortran   -O3 -p -O0 -fbacktrace -g -fbounds-check -ffpe-trap=invalid,zero,overflow,underflow -Wall   -fopenmp -c /home/black/Desktop/sakanashi/0709_Baysian_MMG/eigen.f90 -o CMakeFiles/main.out.dir/eigen.f90.o",
+  "file": "/home/black/Desktop/sakanashi/0709_Baysian_MMG/eigen.f90"
+},
+{
+  "directory": "/home/black/Desktop/sakanashi/0709_Baysian_MMG/build",
+  "command": "/usr/bin/gfortran   -O3 -p -O0 -fbacktrace -g -fbounds-check -ffpe-trap=invalid,zero,overflow,underflow -Wall   -fopenmp -c /home/black/Desktop/sakanashi/0709_Baysian_MMG/random.f90 -o CMakeFiles/main.out.dir/random.f90.o",
+  "file": "/home/black/Desktop/sakanashi/0709_Baysian_MMG/random.f90"
+},
+{
+  "directory": "/home/black/Desktop/sakanashi/0709_Baysian_MMG/build",
+  "command": "/usr/bin/gfortran   -O3 -p -O0 -fbacktrace -g -fbounds-check -ffpe-trap=invalid,zero,overflow,underflow -Wall   -fopenmp -c /home/black/Desktop/sakanashi/0709_Baysian_MMG/problem_SI.f90 -o CMakeFiles/main.out.dir/problem_SI.f90.o",
+  "file": "/home/black/Desktop/sakanashi/0709_Baysian_MMG/problem_SI.f90"
+},
+{
+  "directory": "/home/black/Desktop/sakanashi/0709_Baysian_MMG/build",
+  "command": "/usr/bin/gfortran   -O3 -p -O0 -fbacktrace -g -fbounds-check -ffpe-trap=invalid,zero,overflow,underflow -Wall   -fopenmp -c /home/black/Desktop/sakanashi/0709_Baysian_MMG/MMG_model.f90 -o CMakeFiles/main.out.dir/MMG_model.f90.o",
+  "file": "/home/black/Desktop/sakanashi/0709_Baysian_MMG/MMG_model.f90"
+},
+{
+  "directory": "/home/black/Desktop/sakanashi/0709_Baysian_MMG/build",
+  "command": "/usr/bin/gfortran   -O3 -p -O0 -fbacktrace -g -fbounds-check -ffpe-trap=invalid,zero,overflow,underflow -Wall   -fopenmp -c /home/black/Desktop/sakanashi/0709_Baysian_MMG/main.f90 -o CMakeFiles/main.out.dir/main.f90.o",
+  "file": "/home/black/Desktop/sakanashi/0709_Baysian_MMG/main.f90"
+}
+]

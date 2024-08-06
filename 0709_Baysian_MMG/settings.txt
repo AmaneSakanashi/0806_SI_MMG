@@ -1,0 +1,6 @@
+!------   Simulation setting  --------
+          1      ! wind force : 0: without, 1: with
+          7      ! type of SI  :  1: all variable, 2: lowspeed &backward variable only, 3: all vars include added mass, 4: forward variable only, 5: 1 and wind, 6: 2 and wind, 7: 3 and wind, 8: 4 and wind
+          1      ! number of input files
+  100.000000      ! integration period of simulation (sec)
+          2     ! type of objective func. 1: velocity, 2: location and velocity, 3: location

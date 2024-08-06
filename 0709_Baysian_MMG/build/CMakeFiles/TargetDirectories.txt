@@ -1,0 +1,3 @@
+/home/black/Desktop/sakanashi/0709_Baysian_MMG/build/CMakeFiles/rebuild_cache.dir
+/home/black/Desktop/sakanashi/0709_Baysian_MMG/build/CMakeFiles/edit_cache.dir
+/home/black/Desktop/sakanashi/0709_Baysian_MMG/build/CMakeFiles/main.out.dir
